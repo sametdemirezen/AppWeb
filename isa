@@ -1,0 +1,63 @@
+Universitet i Agder
+Fakultet for samfunnsvitenskap
+FORSİDE
+
+IS-429
+
+
+
+
+
+
+
+
+SAMET DEMIREZEN
+
+
+
+
+
+
+
+
+
+
+
+
+I confirm that we do not quote or otherwise
+way uses other people's work without this
+being stated, and that all references are
+stated in the literature. *
+	•	Yes	No
+
+
+
+
+
+1.	What did you learn from this case?
+
+
+
+
+
+
+
+
+
+2.	 Do you see the advantages of this sandbox project for public and private organizations?
+
+
+A	LagenfunksjoniPyret,somtarsomINPUTettall,somrepresentereretbeløpi norske kroner, og returnerer som OUTPUT et beløp i euro. 
+fun nok_to_euro(nok_amount):
+  conversion_rate = 0.084  # assuming 1 NOK = 0.09 EUR (replace with the correct rate)
+  euro_amount = nok_amount * conversion_rate
+  euro_amount
+end
+
+# Example usage
+print(nok_to_euro(1000))  # This will print the amount in EUR for 1000 NOK
+
+Skriv en relevant algoritme (skrevet med egne ord) for hver funksjon
+L2. Lag et flytdiagram for hver funksjon (3 flytdiagrammer).
+
+
